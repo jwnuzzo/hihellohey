@@ -1,0 +1,27 @@
+h1 {
+    color:rgb(255, 94, 0); 
+    font-size: 50px; 
+}
+
+a{
+    background-color:rgb(135, 187, 209);
+    padding: 12px;
+    border: 2px solid #b3054d; 
+    border-radius: 10px; 
+    text-decoration: none; 
+    color: black; 
+} 
+
+a:hover{
+   background-color: grey;
+
+}
+
+.navlink{ 
+    background-color:rgb(209, 135, 150);
+    padding: 12px;
+    border: 2px solid #1605b3; 
+    border-radius: 10px; 
+    text-decoration: none; 
+    color: black; 
+}
